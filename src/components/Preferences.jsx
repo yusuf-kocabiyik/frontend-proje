@@ -1,13 +1,22 @@
+
 import ThemeToggle from "./ThemeToggle";
+
 
  const Preferences = ()=>{
 
+    /*
+    BURADA EKLENCEK OLAN ŞEY DARK MODE DA STATE E BAKARAK LİGHT MODE VE DARK MODE YAZISI GÖSTERİLECEK
+    */
+
+   
+
     return(
-        <div className=" w-220 lg:w-340 mx-auto px-10 py-10 flex justify-end mt-2 text-2xl lg:text-xs gap-2 items-center font-bold ">
+        <div className=" w-full  mx-auto px-5 py-5 flex justify-center   mt-2 text-base lg:w-320 lg:flex-row lg:justify-end lg:text-xs lg:py-10 gap-2 items-center font-bold ">
             <ThemeToggle/>
-            <p class="text-[#777777]">DARK MODE</p>
+            <p className="text-[#777777] dark:text-[#D9D9D9]">DARK MODE</p>
             <p>|</p>
-            <p class="text-[#777777]"><span className="text-indigo2  ">TÜRKÇE</span>'YE GEÇ</p>
+
+            <p className="text-[#777777]"><span className="text-indigo2 dark:text-[#BAB2E7] ">TÜRKÇE</span>'YE GEÇ</p>
         </div>
     )
 }
