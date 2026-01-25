@@ -1,0 +1,269 @@
+{
+  "tr": {
+    "preference":{
+      "language":"ENGLISH",
+      "themeDark":"KARANLIK MOD",
+      "themeLight":"AYDINLIK MOD"
+    },
+    "header":{
+      "logo":"A",
+      "skills":"Yetenekler",
+      "projects":"Projeler",
+      "hireMe": "Beni işe alın"
+    },
+    "hero": {
+      "name":"Almila Su",
+      "title": "Yaratıcı düşünen Minimalist",
+      "img":"/images/hero_img.png",
+      "description": "Merhaba, ben Almila. Full-stack geliştiriciyim.Ölçeklenebilir, sağlam ve kullanıcı deneyimi güçlü ön yüz (frontend) ürünleri geliştirebilecek bir geliştirici arıyorsanız, gelin tanışalım.",
+      "hireMe": "Beni işe alın",
+      "githubIcon":"/images/github.png",
+      "github":"GitHub",
+      "linkedinIcon":"/images/linkedin.png",
+      "linkedin":"Linkedin",
+      "heroImg":"/images/hero_img.png"
+    },
+    "subheading":{
+      "skills":"Yetenekler",
+      "profile":"Profil",
+      "projects":"Projeler"
+    },
+    "skills":[
+      {"skillName":"Java Script",
+      "id":"1",
+      "description":"JavaScript, web uygulamalarının etkileşimli ve dinamik hale gelmesini sağlayan temel programlama dilidir.Projelerimde JavaScript’i; kullanıcı etkileşimlerini yönetmek, DOM manipülasyonu yapmak, API’lerle veri alışverişi sağlamak ve modern ES6+ özellikleriyle temiz, okunabilir kodlar yazmak için kullandım.Asenkron programlama, event handling ve state yönetimi konularında aktif deneyime sahibim."
+      },
+      {
+        "skillName":"React.js",
+        "id":"2",
+        "description":"React, modern ve ölçeklenebilir kullanıcı arayüzleri geliştirmek için kullandığım güçlü bir JavaScript kütüphanesidir.Fonksiyonel bileşenler, hooks ve component tabanlı mimari ile yeniden kullanılabilir ve sürdürülebilir arayüzler oluşturdum.Projelerimde React Router ile sayfa yönlendirme, Context API veya state yönetim çözümleriyle veri akışı kontrolü sağladım."
+      },
+        {
+        "skillName":"Node.js",
+        "id":"3",
+        "description":"Node.js, JavaScript’i sunucu tarafında kullanarak hızlı ve ölçeklenebilir backend uygulamaları geliştirmeyi sağlar.Node.js ile RESTful API’ler oluşturma, veritabanı bağlantıları kurma ve istemci–sunucu arasındaki veri akışını yönetme üzerine çalışmalar yaptım.Asenkron yapı sayesinde performanslı ve verimli sistemler geliştirmeye odaklandım."}
+        ],
+    "profile": {
+      "birth":{
+        "birthdate":"Doğum Tarihi",
+        "date":"24.03.1996"
+      },
+      "city":{
+        "residenceCity":"İkamet Şehri",
+        "city":"Ankara"
+      },
+      "education":{
+        "educationalStatus":"Eğitim Durumu",
+        "uni":"Hacettepe Ünv. Biyoloji Lisans, 2016"
+      },
+      "role":{
+        "roleChoice":"Tercih Ettiği Rol",
+        "role":"Frontend, UI"
+      },
+       "aboutMe":{
+        "title":"Hakkımda",
+        "aboutMe":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+      }
+  },
+  "projects":[
+      {"projectName":"Workintech",
+      "id":"1",
+      "img":"/images/Rectangle1.png",
+      "description":"Kullanıcıların hangi çerezleri kabul edip hangilerini reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimal kurulum gerektiren bir çerez eklentisidir. Vanilla JavaScript, SCSS ve Parcel Bundler kullanılarak geliştirilmiştir. NPM paketi olarak kullanılabilir ve Git deposu sayesinde kodun ve temaların her türlü özelleştirilmesine imkân tanır.",
+      "tools":[
+        {"tool":"react",
+        "id":"1"},
+        {"tool":"redux",
+        "id":"2"},
+        {"tool":"axios",
+        "id":"3"}
+      ],
+      "links":[
+        {"link":"GitHub",
+      "id":"1"}, 
+      {"link":"Siteye Git",
+      "id":"2"}
+      ]
+      },
+
+      {"projectName":"Random Jokes",
+      "id":"2",
+      "img":"/images/Rectangle2.png",
+      "description":"Kullanıcıların hangi çerezleri kabul edip hangilerini reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimal kurulum gerektiren bir çerez eklentisidir. Vanilla JavaScript, SCSS ve Parcel Bundler kullanılarak geliştirilmiştir. NPM paketi olarak kullanılabilir ve Git deposu sayesinde kodun ve temaların her türlü özelleştirilmesine imkân tanır.",
+      "tools":[
+        {"tool":"react",
+        "id":"1"},
+        {"tool":"redux",
+        "id":"2"},
+        {"tool":"axios",
+        "id":"3"}
+      ],
+      "links":[
+        {"link":"GitHub",
+      "id":"1"}, 
+      {"link":"Siteye Git",
+      "id":"2"}
+      ]
+      },
+      {"projectName":"Journey",
+      "id":"3",
+      "img":"/images/Rectangle3.png",
+      "description":"Kullanıcıların hangi çerezleri kabul edip hangilerini reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimal kurulum gerektiren bir çerez eklentisidir. Vanilla JavaScript, SCSS ve Parcel Bundler kullanılarak geliştirilmiştir. NPM paketi olarak kullanılabilir ve Git deposu sayesinde kodun ve temaların her türlü özelleştirilmesine imkân tanır.",
+      "tools":[
+        {"tool":"react",
+        "id":"1"},
+        {"tool":"redux",
+        "id":"2"},
+        {"tool":"axios",
+        "id":"3"}
+      ],
+      "links":[
+        {"link":"GitHub",
+      "id":"1"}, 
+      {"link":"Siteye Git",
+      "id":"2"}
+      ]
+      }
+    ],"footer":{
+      "text":"Hadi bir sonraki projede birlikte çalışalım.",
+      "email":"👉almilasucode@gmail.com",
+      "links":["Kişisel Blog","Github","Linkedin"]
+    }
+    
+    
+  },
+
+
+  "en": {
+     "preference":{
+      "language":"TÜRKÇE",
+      "themeDark":"DARK MODE",
+      "themeLight":"LIGHT MODE"
+    },
+    "header":{
+      "logo":"A",
+      "skills":"Skills",
+      "projects":"Projects",
+      "hireMe": "Hire Me"
+    },
+
+    "hero": {
+      "name":"Almila Su",
+      "title": "Creative thinker Minimalism lover",
+      "img":"/images/hero_img.png",
+      "description": "Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+      "hireMe": "Hire Me",
+      "githubIcon":"/images/github.png",
+      "github":"GitHub",
+      "linkedinIcon":"/images/linkedin.png",
+      "linkedin":"Linkedin",
+      "heroImg":"/images/hero_img.png"
+    },
+    "subheading":{
+      "skills":"Skills",
+      "profile":"Profile",
+      "projects":"Projects"
+    },
+    "skills":[
+      {"skillName":"Java Script",
+      "id":"1",
+      "description":"JavaScript is the core programming language used to build interactive and dynamic web applications.In my projects, I have used JavaScript to handle user interactions, manipulate the DOM, communicate with APIs, and write clean, maintainable code using modern ES6+ features.I have hands-on experience with asynchronous programming, event handling, and basic state management concepts."
+      },
+      {
+        "skillName":"React.js",
+        "id":"2",
+        "description":"React is a powerful JavaScript library that I use to build modern and scalable user interfaces.By leveraging functional components, hooks, and a component-based architecture, I create reusable and maintainable UI structures.In my projects, I have implemented routing with React Router and managed application state using Context API or other state management approaches."
+      },
+        {
+        "skillName":"Node.js",
+        "id":"3",
+        "description":"Node.js enables server-side development using JavaScript to build fast and scalable backend applications.I have worked on creating RESTful APIs, handling database connections, and managing data flow between client and server using Node.js.I focus on building efficient and performance-oriented systems by leveraging its asynchronous, non-blocking architecture."}
+        ],
+    "profile": {
+      "birth":{
+        "birthdate":"Birth Date",
+        "date":"24.03.1996"
+      },
+      "city":{
+        "residenceCity":"City of Residence",
+        "city":"Ankara"
+      },
+      "education":{
+        "educationalStatus":"Educational Status",
+        "uni":"Hacettepe Ünv. Biyoloji Lisans, 2016"
+      },
+      "role":{
+        "roleChoice":"Role Preferred",
+        "role":"Frontend, UI"
+      },
+      "aboutMe":{
+        "title":"About Me",
+        "aboutMe":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+      }
+    },
+    "projects":[
+      {"projectName":"Workintech",
+      "id":"1",
+      "img":"/images/Rectangle1.png",
+      "description":"A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible",
+      "tools":[
+        {"tool":"react",
+        "id":"1"},
+        {"tool":"redux",
+        "id":"2"},
+        {"tool":"axios",
+        "id":"3"}
+      ],
+      "links":[
+        {"link":"GitHub",
+      "id":"1"}, 
+      {"link":"Siteye Git",
+      "id":"2"}
+      ]
+      },
+      {"projectName":"Workintech",
+      "id":"2",
+      "img":"/images/Rectangle2.png",
+      "description":"A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible",
+      "tools":[
+        {"tool":"react",
+        "id":"1"},
+        {"tool":"redux",
+        "id":"2"},
+        {"tool":"axios",
+        "id":"3"}
+      ],
+      "links":[
+        {"link":"GitHub",
+      "id":"1"}, 
+      {"link":"Siteye Git",
+      "id":"2"}
+      ]
+      },
+      {"projectName":"Workintech",
+      "id":"3",
+      "img":"/images/Rectangle3.png",
+      "description":"A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible",
+      "tools":[
+        {"tool":"react",
+        "id":"1"},
+        {"tool":"redux",
+        "id":"2"},
+        {"tool":"axios",
+        "id":"3"}
+      ],
+      "links":[
+        {"link":"GitHub",
+      "id":"1"}, 
+      {"link":"Siteye Git",
+      "id":"2"}
+      ]
+      }
+    ],
+    "footer":{
+      "text":"Let’s work together on your next product.",
+      "email":"👉almilasucode@gmail.com",
+      "links":["Personal Blog","Github","Linkedin"]
+    }
+  }
+}

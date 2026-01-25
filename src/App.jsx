@@ -6,13 +6,16 @@ import Preferences from "./components/Preferences"
 import Profile from "./components/Profile"
 import Projects from "./components/Projects"
 import Skills from "./components/Skills"
-import ContextProvider from "./contexts/Context"
+
+
+import { ToastContainer } from 'react-toastify';
 
 
 function App() {
 
   return ( 
-    
+    <>
+      <ToastContainer/>
         <Layout>
             
             <Preferences/>
@@ -24,6 +27,7 @@ function App() {
             <Footer/>
         
         </Layout>
+      </>
    
   )
 }

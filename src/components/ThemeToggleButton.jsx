@@ -1,7 +1,7 @@
 import { usePreference } from "../hooks/usePreference";
 
 
-const ThemeToggle = () => {
+const ThemeToggleButton = () => {
 
   //BURADA CUSTOM HOOK KULLANDIK VE GEREKSİZ İMPORTLARI SİLDİK
   const {isDark,setIsDark} =usePreference();
@@ -11,7 +11,6 @@ const ThemeToggle = () => {
   }
 
 
-       
   return ( 
     <button onClick={themeHandler}
       className="relative w-14 h-6 rounded-full bg-indigo2 dark:bg-[#3A3A3A] transition-colors cursor-pointer"
@@ -40,4 +39,4 @@ const ThemeToggle = () => {
     </button>
   );
 };
-export default ThemeToggle;
+export default ThemeToggleButton;
