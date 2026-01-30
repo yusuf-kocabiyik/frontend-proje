@@ -6,16 +6,16 @@
       "themeLight":"AYDINLIK MOD"
     },
     "header":{
-      "logo":"A",
+      "logo":"Y",
       "skills":"Yetenekler",
       "projects":"Projeler",
       "hireMe": "Beni işe alın"
     },
     "hero": {
-      "name":"Almila Su",
+      "name":"Yusuf KOCABIYIK",
       "title": "Yaratıcı düşünen Minimalist",
-      "img":"/images/hero_img.png",
-      "description": "Merhaba, ben Almila. Full-stack geliştiriciyim.Ölçeklenebilir, sağlam ve kullanıcı deneyimi güçlü ön yüz (frontend) ürünleri geliştirebilecek bir geliştirici arıyorsanız, gelin tanışalım.",
+      "img":"/images/developerr.png",
+      "description": "Merhaba, ben Yusuf. Full-stack geliştiriciyim.Ölçeklenebilir, sağlam ve kullanıcı deneyimi güçlü ön yüz (frontend) ürünleri geliştirebilecek bir geliştirici arıyorsanız, gelin tanışalım.",
       "hireMe": "Beni işe alın",
       "githubIcon":"/images/github.png",
       "github":"GitHub",
@@ -141,17 +141,17 @@
       "themeLight":"LIGHT MODE"
     },
     "header":{
-      "logo":"A",
+      "logo":"Y",
       "skills":"Skills",
       "projects":"Projects",
       "hireMe": "Hire Me"
     },
 
     "hero": {
-      "name":"Almila Su",
+      "name":"Yusuf KOCABIYIK",
       "title": "Creative thinker Minimalism lover",
-      "img":"/images/hero_img.png",
-      "description": "Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+      "img":"/images/developerr.png",
+      "description": "Hi, I’m Yusuf. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
       "hireMe": "Hire Me",
       "githubIcon":"/images/github.png",
       "github":"GitHub",

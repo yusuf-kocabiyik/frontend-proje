@@ -5,14 +5,13 @@ import { useContent } from "../hooks/useContent";
 
 const Hero = ()=>{
     /*
-    
+    lg:mr-[-5rem]
+
     YİNE BURADA DARK MODE A GÖRE GİTHUB VE LİNKEDİN İMG LERİNİN İMG LERİ DEĞİŞECEK, İMG Yİ İNDİRDİM ASSET ALTINDA */ 
   
      const { content, loading } = useContent() ;
 
     if (loading || !content) return null; 
-    
-
 
 return(
 
@@ -29,16 +28,16 @@ return(
 <p className="text-xl m-4 text-center lg:text-lg text-gray1 lg:m-0 lg:text-left dark:text-[#FFFFFF]">{content.hero.description}</p>
 <div className="flex justify-center lg:justify-start text-lg lg:text-lg  gap-3">
     <a href="" className="text-white bg-indigo2 dark:bg-[#E1E1FF] py-1 px-3 lg:py-3 lg:px-8 rounded-md dark:text-[#000000]">{content.hero.hireMe}</a>
-    <a href="" className="flex gap-2 items-center  border-[1px] rounded-md border-indigo2 px-1 lg:px-5 text-indigo2 dark:text-[#E1E1FF]"><img src={content.hero.githubIcon} alt="github-logo" className=""/>{content.hero.github}</a>
-    <a href="" className="flex gap-2  items-center border-[1px] rounded-md border-indigo2 px-1 lg:px-5 text-indigo2 dark:text-[#E1E1FF]" ><img src={content.hero.linkedinIcon} alt="linkedin-logo" />{content.hero.linkedin}</a>
+    <a href="https://github.com/yusuf-kocabiyik" className="flex gap-2 items-center  border-[1px] rounded-md border-indigo2 px-1 lg:px-5 text-indigo2 dark:text-[#E1E1FF]"><img src={content.hero.githubIcon} alt="github-logo" className=""/>{content.hero.github}</a>
+    <a href="https://www.linkedin.com/in/yusufkocabiyik/" className="flex gap-2  items-center border-[1px] rounded-md border-indigo2 px-1 lg:px-5 text-indigo2 dark:text-[#E1E1FF]" ><img src={content.hero.linkedinIcon} alt="linkedin-logo" />{content.hero.linkedin}</a>
 </div>
 
 </div>
 
 
 
-<div className="flex flex-2 justify-end">
-<img src={content.hero.img} className="flex w-full h-full lg:w-170 lg:h-140 lg:mr-[-5rem] " />
+<div className="flex  justify-center my-8 lg:justify-end">
+<img src={content.hero.img} className="flex max-w-11/12 h-10/12 lg:w-170 lg:h-125 rounded-4xl  " />
 </div>
 
 
