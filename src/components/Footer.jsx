@@ -11,7 +11,7 @@ const Footer = ()=>{
 
             <h1 className="text-center lg:text-left text-[36px] lg:text-[42px] w-full lg:w-120 font-semibold px-6 lg:px-2 dark:text-darkTitle1">{content.footer.text}</h1>
             <div className="font-medium text-lg flex flex-col gap-3 lg:gap-0 lg:flex-row justify-between px-2">
-                <a href="" className="text-center mx-auto lg:mx-0 text-[#AF0C48] border-b-2 border-[#AF0C48] dark:text-[#BAB2E7] dark:border-[#BAB2E7]">{content.footer.email}</a>
+                <span href="" className="text-center mx-auto lg:mx-0 text-[#AF0C48] border-b-2 border-[#AF0C48] dark:text-[#BAB2E7] dark:border-[#BAB2E7]">{content.footer.email}</span>
                 <div className="flex mx-auto lg:mx-0 justify-around lg:justify-between w-70">
                     <a href="" className="dark:text-[#E1E1FF]">{content.footer.links[0]}</a>
                     <a href="" className="text-[#00AB6B]">{content.footer.links[1]}</a>
