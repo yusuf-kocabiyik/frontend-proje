@@ -46,23 +46,23 @@
     "profile": {
       "birth":{
         "birthdate":"Doğum Tarihi",
-        "date":"24.03.1996"
+        "date":"11.04.2000"
       },
       "city":{
         "residenceCity":"İkamet Şehri",
-        "city":"Ankara"
+        "city":"İstanbul"
       },
       "education":{
         "educationalStatus":"Eğitim Durumu",
-        "uni":"Hacettepe Ünv. Biyoloji Lisans, 2016"
+        "uni":"Yıldız Teknik Ünv. Kontrol&Otomasyon Lisans, 2025"
       },
       "role":{
         "roleChoice":"Tercih Ettiği Rol",
-        "role":"Frontend, UI"
+        "role":"FullStack, UI"
       },
        "aboutMe":{
         "title":"Hakkımda",
-        "aboutMe":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+        "aboutMe":"Yıldız Teknik Üniversitesi Kontrol ve Otomasyon Mühendisliği bölümünden mezunum. Üniversite eğitimim boyunca teknik becerilerimi geliştirmemin yanı sıra, ekip çalışmasına odaklı ortamlarda sosyal becerilerimi de sürekli geliştirmeye çalıştım. Modern tekniklerle yazılım geliştirmeye ilgi duyuyorum!"
       }
   },
   "projects":[
@@ -182,23 +182,23 @@
     "profile": {
       "birth":{
         "birthdate":"Birth Date",
-        "date":"24.03.1996"
+        "date":"11.04.2000"
       },
       "city":{
         "residenceCity":"City of Residence",
-        "city":"Ankara"
+        "city":"Istanbul"
       },
       "education":{
         "educationalStatus":"Educational Status",
-        "uni":"Hacettepe Ünv. Biyoloji Lisans, 2016"
+        "uni":"Yildiz Technic Uni. Control&Automation Eng. Bachelor, 2025"
       },
       "role":{
         "roleChoice":"Role Preferred",
-        "role":"Frontend, UI"
+        "role":"FullStack, UI"
       },
       "aboutMe":{
         "title":"About Me",
-        "aboutMe":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+        "aboutMe":"I am a graduate of Yıldız Technical University with a degree in Control and Automation Engineering. During my university education besides sharpening my tecnical skills, I allways pursue to develop my softskills in a teamwork-focused environment. I am interested in software developing with modern technics!"
       }
     },
     "projects":[

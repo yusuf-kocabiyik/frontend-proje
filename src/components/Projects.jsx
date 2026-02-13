@@ -9,7 +9,7 @@ const Projects =()=>{
   
 
     return(
-        <section className="w-full lg:w-320 mx-auto border-t-2 border-[#BAB2E7]">
+        <section className="w-full lg:w-320 mx-auto border-t-2 my-8 border-[#BAB2E7]">
         <h1 className="text-5xl text-center lg:text-left font-semibold py-8 dark:text-darkTitle1">{content.subheading.projects}</h1>
 
         <main className="flex w-full flex-col lg:flex-row flex-wrap justify-between gap-4 lg:gap-0">

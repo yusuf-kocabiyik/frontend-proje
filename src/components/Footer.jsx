@@ -6,7 +6,7 @@ const Footer = ()=>{
         if (loading || !content) return null; 
 
     return(
-        <div className="w-full  flex flex-col  gap-5 mx-auto lg:px-15 bg-[#F9F9F9] dark:bg-[#141414]">
+        <div className="w-full  lg:w-360 flex flex-col  gap-5 mx-auto lg:px-15 bg-[#F9F9F9] dark:bg-[#141414]">
              <br /><br />
 
             <h1 className="text-center lg:text-left text-[36px] lg:text-[42px] w-full lg:w-120 font-semibold px-6 lg:px-2 dark:text-darkTitle1">{content.footer.text}</h1>

@@ -1,4 +1,5 @@
 import Footer from "./components/Footer"
+import FooterContainer from "./components/FooterContainer"
 import Header from "./components/Header"
 import Hero from "./components/Hero"
 import Layout from "./components/Layout"
@@ -24,9 +25,11 @@ function App() {
             <Skills/>
             <Profile/>
             <Projects/>
-            <Footer/>
-        
+            
+ 
         </Layout>
+        <FooterContainer/>
+
       </>
    
   )
