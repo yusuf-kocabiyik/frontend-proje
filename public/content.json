@@ -38,10 +38,24 @@
         "id":"2",
         "description":"React, modern ve ölçeklenebilir kullanıcı arayüzleri geliştirmek için kullandığım güçlü bir JavaScript kütüphanesidir.Fonksiyonel bileşenler, hooks ve component tabanlı mimari ile yeniden kullanılabilir ve sürdürülebilir arayüzler oluşturdum.Projelerimde React Router ile sayfa yönlendirme, Context API veya state yönetim çözümleriyle veri akışı kontrolü sağladım."
       },
+      {"skillName":"Java",
+      "id":"3",
+      "description":"Java, ölçeklenebilir ve güvenilir backend uygulamaları geliştirmek için kullandığım güçlü ve nesne yönelimli bir programlama dilidir. OOP prensipleriyle temiz ve sürdürülebilir kod yapıları oluşturarak RESTful servisler ve veri tabanı entegrasyonları geliştirdim. Spring Boot ile hızlı ve modüler backend servisleri tasarlayarak katmanlı mimari yapılar üzerinde çalışıyorum."
+      },
         {
         "skillName":"Node.js",
-        "id":"3",
-        "description":"Node.js, JavaScript’i sunucu tarafında kullanarak hızlı ve ölçeklenebilir backend uygulamaları geliştirmeyi sağlar.Node.js ile RESTful API’ler oluşturma, veritabanı bağlantıları kurma ve istemci–sunucu arasındaki veri akışını yönetme üzerine çalışmalar yaptım.Asenkron yapı sayesinde performanslı ve verimli sistemler geliştirmeye odaklandım."}
+        "id":"4",
+        "description":"Node.js, JavaScript’i sunucu tarafında kullanarak hızlı ve ölçeklenebilir backend uygulamaları geliştirmeyi sağlar.Node.js ile RESTful API’ler oluşturma, veritabanı bağlantıları kurma ve istemci–sunucu arasındaki veri akışını yönetme üzerine çalışmalar yaptım.Asenkron yapı sayesinde performanslı ve verimli sistemler geliştirmeye odaklandım."
+      },
+      {"skillName":"C",
+      "id":"5",
+      "description":"C programlama dili ile üniversite eğitimim boyunca aktif olarak çalıştım ve temel programlama altyapımı bu dil ile geliştirdim. C kullanarak küçük ölçekli bir kütüphane yönetim sistemi ve bir otel rezervasyon sistemi geliştirdim. Bu süreçte algoritma geliştirme, temel veri yapıları ve C sözdizimine hâkimiyet konularında pratik kazandım. Ayrıca Udemy eğitimleriyle bilgimi destekleyerek programlama mantığımı daha sağlam bir temele oturttum."
+      },
+      {"skillName":"Matlab/Simulink",
+      "id":"6",
+      "description":"MATLAB ve Simulink’i üniversite eğitimim boyunca derslerimizde aktif olarak kullandım ve modelleme ile kontrol sistemleri analizinde deneyim kazandım. Özellikle sistem dinamiği, kontrol teorisi ve simülasyon çalışmalarında bu araçlarla yoğun şekilde çalıştım. Bitirme projem kapsamında Active Suspension sisteminin matematiksel modellemesini gerçekleştirdim ve kontrolcü tasarımını MATLAB/Simulink ortamında geliştirerek sistem performansını simülasyon üzerinden analiz ettim."
+      }
+
         ],
     "profile": {
       "birth":{
@@ -174,10 +188,23 @@
         "id":"2",
         "description":"React is a powerful JavaScript library that I use to build modern and scalable user interfaces.By leveraging functional components, hooks, and a component-based architecture, I create reusable and maintainable UI structures.In my projects, I have implemented routing with React Router and managed application state using Context API or other state management approaches."
       },
+      {"skillName":"Java",
+      "id":"3",
+      "description":"Java is a powerful, object-oriented programming language I use to build scalable and reliable backend applications. By applying OOP principles, I develop clean and maintainable code structures, implement RESTful services, and manage database integrations. With Spring Boot, I design modular and efficient backend services based on layered architecture principles."
+      },
         {
         "skillName":"Node.js",
-        "id":"3",
-        "description":"Node.js enables server-side development using JavaScript to build fast and scalable backend applications.I have worked on creating RESTful APIs, handling database connections, and managing data flow between client and server using Node.js.I focus on building efficient and performance-oriented systems by leveraging its asynchronous, non-blocking architecture."}
+        "id":"4",
+        "description":"Node.js enables server-side development using JavaScript to build fast and scalable backend applications.I have worked on creating RESTful APIs, handling database connections, and managing data flow between client and server using Node.js.I focus on building efficient and performance-oriented systems by leveraging its asynchronous, non-blocking architecture."
+      },
+      {"skillName":"C",
+      "id":"5",
+      "description":"I actively worked with the C programming language throughout my university education and built my core programming foundation using C. I developed small-scale projects such as a library management system and a hotel reservation system. During this process, I improved my skills in algorithm development, basic data structures, and C syntax. I also strengthened my knowledge through Udemy courses to build a solid understanding of programming fundamentals."
+      },
+      {"skillName":"Matlab/Simulink",
+      "id":"6",
+      "description":"I actively used MATLAB and Simulink throughout my university education, particularly in courses involving system dynamics, control theory, and simulation studies. I gained practical experience in modeling and control system analysis using these tools. For my graduation project, I developed the mathematical model of an active suspension system and designed its controller in the MATLAB/Simulink environment, analyzing system performance through simulations."
+      }
         ],
     "profile": {
       "birth":{
